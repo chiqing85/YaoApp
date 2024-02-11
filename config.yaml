@@ -1,0 +1,19 @@
+web:
+  name: "呦呦网"
+  url: "127.0.0.1"
+token:
+  key: "shanghai"
+database:
+  name: "root"
+  pass: "root"
+  host: "127.0.0.1"
+  port: "3306"
+  database: "yao"
+  charset: "utf8mb4"
+  type: "mysql"
+  prefix: "yao_"
+meial:
+  host: "smtp.qq.com"
+  port: 465
+  from: "3201587032@qq.com"
+  key: "flmdlmetfihvdgdf"
